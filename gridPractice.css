@@ -71,3 +71,7 @@
     border-radius: 5px;
     transition: transform 0.3s;
 }
+
+.gallery-item:hover{
+    transform: scale(1.05);
+}
